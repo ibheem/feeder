@@ -1,0 +1,17 @@
+.section {
+    text-align: center;
+    font-size: 3em;
+  }
+  
+  /**
+  Fixed button outside the fullpage.js wrapper
+  */
+  #destroy {
+    position: fixed;
+    z-index: 999;
+    font-size: 2em;
+    cursor: pointer;
+    top: 20px;
+    left: 20px;
+  }
+  
